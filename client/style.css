@@ -13,7 +13,7 @@ body {
 
 #app {
   width: 100vw;
-  height: 90vh;
+  height: 100vh;
   background: #343541;
 
   display: flex;
@@ -118,6 +118,7 @@ form {
   margin: 0 auto;
   padding: 10px;
   background: #40414F;
+  margin-bottom: 50px;
 
   display: flex;
   flex-direction: row;
